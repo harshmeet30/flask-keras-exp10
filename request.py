@@ -1,7 +1,4 @@
-# USAGE
-# python simple_request.py
 
-# import the necessary packages
 import requests
 
 # initialize the Keras REST API endpoint URL along with the input
